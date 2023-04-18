@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\bin\Debug\InterfasGrafica.exe.config
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\bin\Debug\InterfasGrafica.exe
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\bin\Debug\InterfasGrafica.pdb
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.exe
+C:\Users\HP\OneDrive\Escritorio\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.pdb
